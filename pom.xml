@@ -34,7 +34,7 @@ limitations under the License.
     <dependency>
       <groupId>com.google.http-client</groupId>
       <artifactId>google-http-client-jackson2</artifactId>
-      <version>1.28.0</version>
+      <version>1.38.0</version>
     </dependency>
 
     <!-- Jetty plugin dependencies -->
